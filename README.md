@@ -1,1 +1,1 @@
-# HTML-as-programming-language-repositories.github.io
+# HTML-as-programming-language.github.io
